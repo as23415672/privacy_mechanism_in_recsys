@@ -21,6 +21,6 @@ yelp_academic_dataset_review.json filter=lfs diff=lfs merge=lfs -text
 *.0-h7535e17_0 filter=lfs diff=lfs merge=lfs -text
 *.13-h88f2d9e_0 filter=lfs diff=lfs merge=lfs -text
 /src/helpers/= filter=lfs diff=lfs merge=lfs -text
-/src/helpers/WARNING: filter=lfs diff=lfs merge=lfs -text
+/src/helpers/WARNING filter=lfs diff=lfs merge=lfs -text
 *.pyc filter=lfs diff=lfs merge=lfs -text
 *.gitkeep filter=lfs diff=lfs merge=lfs -text
